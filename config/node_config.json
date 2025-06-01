@@ -1,0 +1,8 @@
+{
+    "main_node": "http://localhost/UDPT/main_node",
+    "sub_nodes": [
+        "http://localhost/UDPT/sub_node_1",
+        "http://localhost/UDPT/sub_node_2",
+        "http://localhost/UDPT/sub_node_3"
+    ]
+}

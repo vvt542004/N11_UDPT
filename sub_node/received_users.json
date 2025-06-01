@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Vu Viet Tuan",
+        "age": 21,
+        "email": "viettuan542004@gmail.com",
+        "phone": "0569973315",
+        "point": 60,
+        "active": "Có",
+        "city": "Ha Noi",
+        "from_gateway": true,
+        "source_node": "http:\/\/localhost:8000"
+    },
+    {
+        "name": "Vu Duy Binh",
+        "age": 21,
+        "email": "Binh@gmail.com",
+        "phone": "0965672176",
+        "point": 62,
+        "active": "Không",
+        "city": "Nam Dinh",
+        "from_gateway": true,
+        "source_node": "http:\/\/localhost:8000"
+    },
+    {
+        "name": "Sieu Nhan Do",
+        "age": 26,
+        "email": "sieunhan@gmail.com",
+        "phone": "0987545666",
+        "point": 61,
+        "active": "Không",
+        "city": "Thanh Hoa",
+        "from_gateway": true,
+        "source_node": "http:\/\/localhost:8000"
+    }
+]
